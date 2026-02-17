@@ -1,0 +1,26 @@
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Binaires et logs
+qdrant
+qdrant.log
+storage/
+.qdrant-initialized
+
+# Archives
+*.tar.gz
+
+# Fichiers de configuration locaux
+.vscode/
+.idea/
+
+# Docker (si vous ne l'utilisez pas)
+docker-compose.yml  # (optionnel, si vous voulez le versionner, retirez-le)
+
+
+data/

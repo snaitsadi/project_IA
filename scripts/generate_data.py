@@ -1,6 +1,6 @@
 import json
 import random
-from pathlib import path 
+from pathlib import Path
 
 
 # Définir les compétences possibles
@@ -35,3 +35,41 @@ def generate_freelances(n=1000):
             "hourly_rate": random.randint(300, 800)
         })
     return freelances
+
+
+
+# Générer des missions
+def generate_missions(n=200):
+    missions = []
+    for i in range(n):
+        num_skills = random.randint(2, 5)
+        skills = random.sample(SKILLS, num_skills)
+        title = f"Recherche {random.choice(['un', 'un(e)'])} {skills[0]} Freelance"
+        description = f"Mission de {random.randint(1, 12)} mois. "
+        description += f"Nous cherchons un expert en {', '.join(skills)} pour "
+        description += random.choice([
+            "développer une application web.",
+            "mettre en place une infrastructure cloud.",
+            "créer un modèle de machine learning.",
+            "optimiser les performances de nos bases de données.",
+            "moderniser notre stack technique."
+        ])
+        missions.append({
+            "id": i,
+            "title": title,
+            "description": description,
+            "skills": skills,
+            "duration_months": random.randint(1, 12),
+            "budget": random.randint(10000, 100000)
+        })
+    return missions
+
+if __name__ == "__main__":
+    Path("../data").mkdir(exist_ok=True)
+    freelances = generate_freelances(1000)
+    missions = generate_missions(200)
+    with open("../data/freelances.json", "w") as f:
+        json.dump(freelances, f, indent=2)
+    with open("../data/missions.json", "w") as f:
+        json.dump(missions, f, indent=2)
+    print("Données générées dans le dossier data/")

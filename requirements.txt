@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+qdrant-client
+elasticsearch
+numpy
+panda
+scikit-learn
+pydantic
+python-multipart

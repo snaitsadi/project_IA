@@ -19,8 +19,5 @@ storage/
 .vscode/
 .idea/
 
-# Docker (si vous ne l'utilisez pas)
-docker-compose.yml  # (optionnel, si vous voulez le versionner, retirez-le)
-
-
-data/
+# Docker (optionnel)
+docker-compose.yml

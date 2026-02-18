@@ -1,0 +1,2543 @@
+[
+  {
+    "id": 0,
+    "title": "Recherche un JavaScript Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en JavaScript, CI/CD, Data Science pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "JavaScript",
+      "CI/CD",
+      "Data Science"
+    ],
+    "duration_months": 2,
+    "budget": 32363
+  },
+  {
+    "id": 1,
+    "title": "Recherche un Kafka Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Kafka, JavaScript, NumPy, TensorFlow, Flask pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Kafka",
+      "JavaScript",
+      "NumPy",
+      "TensorFlow",
+      "Flask"
+    ],
+    "duration_months": 2,
+    "budget": 52163
+  },
+  {
+    "id": 2,
+    "title": "Recherche un(e) DevOps Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en DevOps, SQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "DevOps",
+      "SQL"
+    ],
+    "duration_months": 3,
+    "budget": 83205
+  },
+  {
+    "id": 3,
+    "title": "Recherche un(e) React Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en React, Django, NoSQL, Java pour moderniser notre stack technique.",
+    "skills": [
+      "React",
+      "Django",
+      "NoSQL",
+      "Java"
+    ],
+    "duration_months": 2,
+    "budget": 69847
+  },
+  {
+    "id": 4,
+    "title": "Recherche un Qdrant Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Qdrant, AWS, Pandas, BigQuery, Terraform pour d\u00e9velopper une application web.",
+    "skills": [
+      "Qdrant",
+      "AWS",
+      "Pandas",
+      "BigQuery",
+      "Terraform"
+    ],
+    "duration_months": 1,
+    "budget": 37608
+  },
+  {
+    "id": 5,
+    "title": "Recherche un(e) JavaScript Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en JavaScript, SQL, Java, Elasticsearch pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "JavaScript",
+      "SQL",
+      "Java",
+      "Elasticsearch"
+    ],
+    "duration_months": 8,
+    "budget": 66990
+  },
+  {
+    "id": 6,
+    "title": "Recherche un React Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en React, Kafka, PyTorch pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "React",
+      "Kafka",
+      "PyTorch"
+    ],
+    "duration_months": 8,
+    "budget": 36140
+  },
+  {
+    "id": 7,
+    "title": "Recherche un(e) Flask Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Flask, PyTorch, FastAPI, Docker pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Flask",
+      "PyTorch",
+      "FastAPI",
+      "Docker"
+    ],
+    "duration_months": 6,
+    "budget": 80588
+  },
+  {
+    "id": 8,
+    "title": "Recherche un Java Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Java, NoSQL, Node.js pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Java",
+      "NoSQL",
+      "Node.js"
+    ],
+    "duration_months": 3,
+    "budget": 90450
+  },
+  {
+    "id": 9,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en NoSQL, FastAPI, python, BigQuery pour moderniser notre stack technique.",
+    "skills": [
+      "NoSQL",
+      "FastAPI",
+      "python",
+      "BigQuery"
+    ],
+    "duration_months": 2,
+    "budget": 64579
+  },
+  {
+    "id": 10,
+    "title": "Recherche un(e) Node.js Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Node.js, NoSQL pour moderniser notre stack technique.",
+    "skills": [
+      "Node.js",
+      "NoSQL"
+    ],
+    "duration_months": 8,
+    "budget": 47672
+  },
+  {
+    "id": 11,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en NoSQL, Computer Vision pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "NoSQL",
+      "Computer Vision"
+    ],
+    "duration_months": 9,
+    "budget": 45429
+  },
+  {
+    "id": 12,
+    "title": "Recherche un(e) NLP Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en NLP, Qdrant pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "NLP",
+      "Qdrant"
+    ],
+    "duration_months": 11,
+    "budget": 63910
+  },
+  {
+    "id": 13,
+    "title": "Recherche un(e) AWS Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en AWS, Qdrant, FastAPI pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "duration_months": 11,
+    "budget": 76009
+  },
+  {
+    "id": 14,
+    "title": "Recherche un Elasticsearch Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Elasticsearch, NLP, Flask, AWS, Kubernetes pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Elasticsearch",
+      "NLP",
+      "Flask",
+      "AWS",
+      "Kubernetes"
+    ],
+    "duration_months": 6,
+    "budget": 67595
+  },
+  {
+    "id": 15,
+    "title": "Recherche un BigQuery Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en BigQuery, GraphQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "BigQuery",
+      "GraphQL"
+    ],
+    "duration_months": 11,
+    "budget": 80219
+  },
+  {
+    "id": 16,
+    "title": "Recherche un SQL Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en SQL, FastAPI, Kafka pour d\u00e9velopper une application web.",
+    "skills": [
+      "SQL",
+      "FastAPI",
+      "Kafka"
+    ],
+    "duration_months": 11,
+    "budget": 98937
+  },
+  {
+    "id": 17,
+    "title": "Recherche un(e) Django Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Django, GraphQL, Node.js, BigQuery pour d\u00e9velopper une application web.",
+    "skills": [
+      "Django",
+      "GraphQL",
+      "Node.js",
+      "BigQuery"
+    ],
+    "duration_months": 7,
+    "budget": 86718
+  },
+  {
+    "id": 18,
+    "title": "Recherche un(e) SQL Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en SQL, Terraform, Flask, NoSQL pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "SQL",
+      "Terraform",
+      "Flask",
+      "NoSQL"
+    ],
+    "duration_months": 10,
+    "budget": 87044
+  },
+  {
+    "id": 19,
+    "title": "Recherche un REST API Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en REST API, AWS, PyTorch, Elasticsearch pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "REST API",
+      "AWS",
+      "PyTorch",
+      "Elasticsearch"
+    ],
+    "duration_months": 1,
+    "budget": 27934
+  },
+  {
+    "id": 20,
+    "title": "Recherche un(e) Pandas Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Pandas, python, FastAPI, Computer Vision, CI/CD pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Pandas",
+      "python",
+      "FastAPI",
+      "Computer Vision",
+      "CI/CD"
+    ],
+    "duration_months": 3,
+    "budget": 85878
+  },
+  {
+    "id": 21,
+    "title": "Recherche un(e) REST API Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en REST API, GraphQL, DevOps, Flask, Django pour d\u00e9velopper une application web.",
+    "skills": [
+      "REST API",
+      "GraphQL",
+      "DevOps",
+      "Flask",
+      "Django"
+    ],
+    "duration_months": 1,
+    "budget": 20436
+  },
+  {
+    "id": 22,
+    "title": "Recherche un(e) Flask Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Flask, CI/CD, JavaScript, GraphQL pour moderniser notre stack technique.",
+    "skills": [
+      "Flask",
+      "CI/CD",
+      "JavaScript",
+      "GraphQL"
+    ],
+    "duration_months": 8,
+    "budget": 78679
+  },
+  {
+    "id": 23,
+    "title": "Recherche un Machine Learning Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Machine Learning, React pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Machine Learning",
+      "React"
+    ],
+    "duration_months": 10,
+    "budget": 53249
+  },
+  {
+    "id": 24,
+    "title": "Recherche un Kafka Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Kafka, REST API pour moderniser notre stack technique.",
+    "skills": [
+      "Kafka",
+      "REST API"
+    ],
+    "duration_months": 11,
+    "budget": 61503
+  },
+  {
+    "id": 25,
+    "title": "Recherche un Docker Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Docker, React, Computer Vision pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Docker",
+      "React",
+      "Computer Vision"
+    ],
+    "duration_months": 9,
+    "budget": 25244
+  },
+  {
+    "id": 26,
+    "title": "Recherche un Kubernetes Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Kubernetes, Docker, NumPy pour moderniser notre stack technique.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "NumPy"
+    ],
+    "duration_months": 12,
+    "budget": 37480
+  },
+  {
+    "id": 27,
+    "title": "Recherche un Pandas Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Pandas, Docker, SQL, NoSQL pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Pandas",
+      "Docker",
+      "SQL",
+      "NoSQL"
+    ],
+    "duration_months": 9,
+    "budget": 41034
+  },
+  {
+    "id": 28,
+    "title": "Recherche un DevOps Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en DevOps, React, python, Node.js, Flask pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "DevOps",
+      "React",
+      "python",
+      "Node.js",
+      "Flask"
+    ],
+    "duration_months": 1,
+    "budget": 54245
+  },
+  {
+    "id": 29,
+    "title": "Recherche un(e) Java Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Java, Elasticsearch, JavaScript, GraphQL pour moderniser notre stack technique.",
+    "skills": [
+      "Java",
+      "Elasticsearch",
+      "JavaScript",
+      "GraphQL"
+    ],
+    "duration_months": 11,
+    "budget": 97903
+  },
+  {
+    "id": 30,
+    "title": "Recherche un(e) CI/CD Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en CI/CD, FastAPI, Java, Data Science pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "CI/CD",
+      "FastAPI",
+      "Java",
+      "Data Science"
+    ],
+    "duration_months": 8,
+    "budget": 84182
+  },
+  {
+    "id": 31,
+    "title": "Recherche un(e) PyTorch Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en PyTorch, SQL, Node.js pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "PyTorch",
+      "SQL",
+      "Node.js"
+    ],
+    "duration_months": 2,
+    "budget": 87348
+  },
+  {
+    "id": 32,
+    "title": "Recherche un(e) Flask Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Flask, TensorFlow pour moderniser notre stack technique.",
+    "skills": [
+      "Flask",
+      "TensorFlow"
+    ],
+    "duration_months": 10,
+    "budget": 41315
+  },
+  {
+    "id": 33,
+    "title": "Recherche un FastAPI Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en FastAPI, Java pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "FastAPI",
+      "Java"
+    ],
+    "duration_months": 7,
+    "budget": 13715
+  },
+  {
+    "id": 34,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en NoSQL, Scikit-learn, Node.js, SQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "NoSQL",
+      "Scikit-learn",
+      "Node.js",
+      "SQL"
+    ],
+    "duration_months": 8,
+    "budget": 36285
+  },
+  {
+    "id": 35,
+    "title": "Recherche un(e) Flask Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Flask, NoSQL, SQL, Node.js pour d\u00e9velopper une application web.",
+    "skills": [
+      "Flask",
+      "NoSQL",
+      "SQL",
+      "Node.js"
+    ],
+    "duration_months": 5,
+    "budget": 84187
+  },
+  {
+    "id": 36,
+    "title": "Recherche un(e) Pandas Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Pandas, python, AWS, NumPy, Flask pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Pandas",
+      "python",
+      "AWS",
+      "NumPy",
+      "Flask"
+    ],
+    "duration_months": 2,
+    "budget": 18692
+  },
+  {
+    "id": 37,
+    "title": "Recherche un REST API Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en REST API, PyTorch, TensorFlow, Django, AWS pour d\u00e9velopper une application web.",
+    "skills": [
+      "REST API",
+      "PyTorch",
+      "TensorFlow",
+      "Django",
+      "AWS"
+    ],
+    "duration_months": 7,
+    "budget": 20765
+  },
+  {
+    "id": 38,
+    "title": "Recherche un(e) Data Science Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Data Science, Pandas pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Data Science",
+      "Pandas"
+    ],
+    "duration_months": 10,
+    "budget": 76094
+  },
+  {
+    "id": 39,
+    "title": "Recherche un Java Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en Java, python, REST API pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Java",
+      "python",
+      "REST API"
+    ],
+    "duration_months": 11,
+    "budget": 67427
+  },
+  {
+    "id": 40,
+    "title": "Recherche un(e) Pandas Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Pandas, BigQuery, Qdrant, Computer Vision, TensorFlow pour moderniser notre stack technique.",
+    "skills": [
+      "Pandas",
+      "BigQuery",
+      "Qdrant",
+      "Computer Vision",
+      "TensorFlow"
+    ],
+    "duration_months": 9,
+    "budget": 54237
+  },
+  {
+    "id": 41,
+    "title": "Recherche un(e) Java Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Java, BigQuery, Docker pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Java",
+      "BigQuery",
+      "Docker"
+    ],
+    "duration_months": 11,
+    "budget": 87240
+  },
+  {
+    "id": 42,
+    "title": "Recherche un Pandas Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Pandas, Node.js, Elasticsearch, FastAPI, React pour d\u00e9velopper une application web.",
+    "skills": [
+      "Pandas",
+      "Node.js",
+      "Elasticsearch",
+      "FastAPI",
+      "React"
+    ],
+    "duration_months": 12,
+    "budget": 88469
+  },
+  {
+    "id": 43,
+    "title": "Recherche un(e) SQL Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en SQL, Flask, CI/CD, Docker, AWS pour d\u00e9velopper une application web.",
+    "skills": [
+      "SQL",
+      "Flask",
+      "CI/CD",
+      "Docker",
+      "AWS"
+    ],
+    "duration_months": 12,
+    "budget": 69058
+  },
+  {
+    "id": 44,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en NoSQL, Machine Learning, Elasticsearch, Scikit-learn, Docker pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "NoSQL",
+      "Machine Learning",
+      "Elasticsearch",
+      "Scikit-learn",
+      "Docker"
+    ],
+    "duration_months": 11,
+    "budget": 81552
+  },
+  {
+    "id": 45,
+    "title": "Recherche un React Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en React, Data Science, Java, TensorFlow, Pandas pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "React",
+      "Data Science",
+      "Java",
+      "TensorFlow",
+      "Pandas"
+    ],
+    "duration_months": 10,
+    "budget": 80248
+  },
+  {
+    "id": 46,
+    "title": "Recherche un Django Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Django, DevOps, CI/CD, Pandas, NumPy pour d\u00e9velopper une application web.",
+    "skills": [
+      "Django",
+      "DevOps",
+      "CI/CD",
+      "Pandas",
+      "NumPy"
+    ],
+    "duration_months": 2,
+    "budget": 60418
+  },
+  {
+    "id": 47,
+    "title": "Recherche un(e) SQL Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en SQL, Scikit-learn, NLP, REST API, NumPy pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "SQL",
+      "Scikit-learn",
+      "NLP",
+      "REST API",
+      "NumPy"
+    ],
+    "duration_months": 1,
+    "budget": 48143
+  },
+  {
+    "id": 48,
+    "title": "Recherche un PyTorch Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en PyTorch, Terraform, DevOps pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "PyTorch",
+      "Terraform",
+      "DevOps"
+    ],
+    "duration_months": 4,
+    "budget": 65384
+  },
+  {
+    "id": 49,
+    "title": "Recherche un NumPy Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en NumPy, Docker, python, Kafka, TensorFlow pour moderniser notre stack technique.",
+    "skills": [
+      "NumPy",
+      "Docker",
+      "python",
+      "Kafka",
+      "TensorFlow"
+    ],
+    "duration_months": 4,
+    "budget": 55492
+  },
+  {
+    "id": 50,
+    "title": "Recherche un GraphQL Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en GraphQL, AWS, FastAPI, Kubernetes, Terraform pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "GraphQL",
+      "AWS",
+      "FastAPI",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "duration_months": 7,
+    "budget": 89928
+  },
+  {
+    "id": 51,
+    "title": "Recherche un FastAPI Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en FastAPI, TensorFlow, python, Django, SQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "FastAPI",
+      "TensorFlow",
+      "python",
+      "Django",
+      "SQL"
+    ],
+    "duration_months": 9,
+    "budget": 36293
+  },
+  {
+    "id": 52,
+    "title": "Recherche un NumPy Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en NumPy, JavaScript, PyTorch, Qdrant, Docker pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "NumPy",
+      "JavaScript",
+      "PyTorch",
+      "Qdrant",
+      "Docker"
+    ],
+    "duration_months": 2,
+    "budget": 68760
+  },
+  {
+    "id": 53,
+    "title": "Recherche un TensorFlow Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en TensorFlow, Computer Vision, Node.js, GraphQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "TensorFlow",
+      "Computer Vision",
+      "Node.js",
+      "GraphQL"
+    ],
+    "duration_months": 1,
+    "budget": 18835
+  },
+  {
+    "id": 54,
+    "title": "Recherche un Pandas Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en Pandas, Kafka, Flask pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Pandas",
+      "Kafka",
+      "Flask"
+    ],
+    "duration_months": 5,
+    "budget": 87054
+  },
+  {
+    "id": 55,
+    "title": "Recherche un(e) AWS Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en AWS, Django, python, NoSQL pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "Django",
+      "python",
+      "NoSQL"
+    ],
+    "duration_months": 3,
+    "budget": 36534
+  },
+  {
+    "id": 56,
+    "title": "Recherche un DevOps Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en DevOps, NLP, AWS, Terraform, Elasticsearch pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "DevOps",
+      "NLP",
+      "AWS",
+      "Terraform",
+      "Elasticsearch"
+    ],
+    "duration_months": 12,
+    "budget": 51907
+  },
+  {
+    "id": 57,
+    "title": "Recherche un(e) Node.js Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en Node.js, Data Science pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Node.js",
+      "Data Science"
+    ],
+    "duration_months": 4,
+    "budget": 27244
+  },
+  {
+    "id": 58,
+    "title": "Recherche un(e) Node.js Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Node.js, Computer Vision, python, NoSQL pour moderniser notre stack technique.",
+    "skills": [
+      "Node.js",
+      "Computer Vision",
+      "python",
+      "NoSQL"
+    ],
+    "duration_months": 9,
+    "budget": 62993
+  },
+  {
+    "id": 59,
+    "title": "Recherche un Elasticsearch Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Elasticsearch, python pour d\u00e9velopper une application web.",
+    "skills": [
+      "Elasticsearch",
+      "python"
+    ],
+    "duration_months": 11,
+    "budget": 63158
+  },
+  {
+    "id": 60,
+    "title": "Recherche un(e) Data Science Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Data Science, GraphQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "Data Science",
+      "GraphQL"
+    ],
+    "duration_months": 1,
+    "budget": 70598
+  },
+  {
+    "id": 61,
+    "title": "Recherche un Data Science Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Data Science, Docker, Flask, Qdrant, JavaScript pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Data Science",
+      "Docker",
+      "Flask",
+      "Qdrant",
+      "JavaScript"
+    ],
+    "duration_months": 10,
+    "budget": 16197
+  },
+  {
+    "id": 62,
+    "title": "Recherche un JavaScript Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en JavaScript, Pandas, Java, Machine Learning, FastAPI pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "JavaScript",
+      "Pandas",
+      "Java",
+      "Machine Learning",
+      "FastAPI"
+    ],
+    "duration_months": 11,
+    "budget": 83095
+  },
+  {
+    "id": 63,
+    "title": "Recherche un Django Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Django, BigQuery, Elasticsearch, Pandas pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Django",
+      "BigQuery",
+      "Elasticsearch",
+      "Pandas"
+    ],
+    "duration_months": 3,
+    "budget": 68923
+  },
+  {
+    "id": 64,
+    "title": "Recherche un(e) PyTorch Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en PyTorch, Django, Qdrant pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "PyTorch",
+      "Django",
+      "Qdrant"
+    ],
+    "duration_months": 12,
+    "budget": 17823
+  },
+  {
+    "id": 65,
+    "title": "Recherche un DevOps Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en DevOps, python, FastAPI, Kafka, SQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "DevOps",
+      "python",
+      "FastAPI",
+      "Kafka",
+      "SQL"
+    ],
+    "duration_months": 1,
+    "budget": 72296
+  },
+  {
+    "id": 66,
+    "title": "Recherche un(e) NumPy Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en NumPy, AWS, Elasticsearch pour moderniser notre stack technique.",
+    "skills": [
+      "NumPy",
+      "AWS",
+      "Elasticsearch"
+    ],
+    "duration_months": 8,
+    "budget": 61146
+  },
+  {
+    "id": 67,
+    "title": "Recherche un(e) Kubernetes Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Kubernetes, Computer Vision, Pandas, Node.js, Qdrant pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kubernetes",
+      "Computer Vision",
+      "Pandas",
+      "Node.js",
+      "Qdrant"
+    ],
+    "duration_months": 12,
+    "budget": 65852
+  },
+  {
+    "id": 68,
+    "title": "Recherche un FastAPI Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en FastAPI, Kubernetes, NumPy, SQL pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "FastAPI",
+      "Kubernetes",
+      "NumPy",
+      "SQL"
+    ],
+    "duration_months": 9,
+    "budget": 87054
+  },
+  {
+    "id": 69,
+    "title": "Recherche un(e) Elasticsearch Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Elasticsearch, DevOps, NLP pour moderniser notre stack technique.",
+    "skills": [
+      "Elasticsearch",
+      "DevOps",
+      "NLP"
+    ],
+    "duration_months": 2,
+    "budget": 46158
+  },
+  {
+    "id": 70,
+    "title": "Recherche un(e) Docker Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Docker, Kafka, Scikit-learn, AWS pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Docker",
+      "Kafka",
+      "Scikit-learn",
+      "AWS"
+    ],
+    "duration_months": 1,
+    "budget": 84068
+  },
+  {
+    "id": 71,
+    "title": "Recherche un(e) React Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en React, CI/CD, DevOps, NLP pour moderniser notre stack technique.",
+    "skills": [
+      "React",
+      "CI/CD",
+      "DevOps",
+      "NLP"
+    ],
+    "duration_months": 1,
+    "budget": 78689
+  },
+  {
+    "id": 72,
+    "title": "Recherche un(e) NoSQL Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en NoSQL, python, TensorFlow, Flask pour moderniser notre stack technique.",
+    "skills": [
+      "NoSQL",
+      "python",
+      "TensorFlow",
+      "Flask"
+    ],
+    "duration_months": 8,
+    "budget": 60185
+  },
+  {
+    "id": 73,
+    "title": "Recherche un(e) CI/CD Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en CI/CD, PyTorch pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "CI/CD",
+      "PyTorch"
+    ],
+    "duration_months": 10,
+    "budget": 46508
+  },
+  {
+    "id": 74,
+    "title": "Recherche un(e) Docker Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Docker, Node.js, Kafka, Computer Vision pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Docker",
+      "Node.js",
+      "Kafka",
+      "Computer Vision"
+    ],
+    "duration_months": 12,
+    "budget": 59049
+  },
+  {
+    "id": 75,
+    "title": "Recherche un Elasticsearch Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Elasticsearch, Computer Vision, FastAPI pour moderniser notre stack technique.",
+    "skills": [
+      "Elasticsearch",
+      "Computer Vision",
+      "FastAPI"
+    ],
+    "duration_months": 7,
+    "budget": 82095
+  },
+  {
+    "id": 76,
+    "title": "Recherche un(e) TensorFlow Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en TensorFlow, Elasticsearch, NoSQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "TensorFlow",
+      "Elasticsearch",
+      "NoSQL"
+    ],
+    "duration_months": 4,
+    "budget": 91113
+  },
+  {
+    "id": 77,
+    "title": "Recherche un(e) Flask Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Flask, Django, Java pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Flask",
+      "Django",
+      "Java"
+    ],
+    "duration_months": 11,
+    "budget": 47487
+  },
+  {
+    "id": 78,
+    "title": "Recherche un PyTorch Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en PyTorch, SQL, GraphQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "PyTorch",
+      "SQL",
+      "GraphQL"
+    ],
+    "duration_months": 1,
+    "budget": 15417
+  },
+  {
+    "id": 79,
+    "title": "Recherche un(e) Computer Vision Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en Computer Vision, Terraform, AWS, Java, SQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Computer Vision",
+      "Terraform",
+      "AWS",
+      "Java",
+      "SQL"
+    ],
+    "duration_months": 7,
+    "budget": 80545
+  },
+  {
+    "id": 80,
+    "title": "Recherche un(e) Machine Learning Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Machine Learning, REST API, NoSQL, Elasticsearch pour d\u00e9velopper une application web.",
+    "skills": [
+      "Machine Learning",
+      "REST API",
+      "NoSQL",
+      "Elasticsearch"
+    ],
+    "duration_months": 4,
+    "budget": 14212
+  },
+  {
+    "id": 81,
+    "title": "Recherche un SQL Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en SQL, DevOps pour moderniser notre stack technique.",
+    "skills": [
+      "SQL",
+      "DevOps"
+    ],
+    "duration_months": 2,
+    "budget": 31493
+  },
+  {
+    "id": 82,
+    "title": "Recherche un(e) Terraform Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Terraform, Node.js, BigQuery, FastAPI pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Terraform",
+      "Node.js",
+      "BigQuery",
+      "FastAPI"
+    ],
+    "duration_months": 7,
+    "budget": 79452
+  },
+  {
+    "id": 83,
+    "title": "Recherche un Kafka Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Kafka, Node.js, AWS, NumPy pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kafka",
+      "Node.js",
+      "AWS",
+      "NumPy"
+    ],
+    "duration_months": 2,
+    "budget": 16323
+  },
+  {
+    "id": 84,
+    "title": "Recherche un(e) Terraform Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Terraform, Computer Vision, Java, SQL pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Terraform",
+      "Computer Vision",
+      "Java",
+      "SQL"
+    ],
+    "duration_months": 6,
+    "budget": 94202
+  },
+  {
+    "id": 85,
+    "title": "Recherche un python Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en python, Elasticsearch pour d\u00e9velopper une application web.",
+    "skills": [
+      "python",
+      "Elasticsearch"
+    ],
+    "duration_months": 2,
+    "budget": 36370
+  },
+  {
+    "id": 86,
+    "title": "Recherche un CI/CD Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en CI/CD, Scikit-learn, NoSQL pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "CI/CD",
+      "Scikit-learn",
+      "NoSQL"
+    ],
+    "duration_months": 4,
+    "budget": 66853
+  },
+  {
+    "id": 87,
+    "title": "Recherche un GraphQL Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en GraphQL, DevOps, PyTorch, NumPy, Qdrant pour moderniser notre stack technique.",
+    "skills": [
+      "GraphQL",
+      "DevOps",
+      "PyTorch",
+      "NumPy",
+      "Qdrant"
+    ],
+    "duration_months": 1,
+    "budget": 66872
+  },
+  {
+    "id": 88,
+    "title": "Recherche un(e) Kubernetes Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Kubernetes, React, Computer Vision, Terraform pour d\u00e9velopper une application web.",
+    "skills": [
+      "Kubernetes",
+      "React",
+      "Computer Vision",
+      "Terraform"
+    ],
+    "duration_months": 10,
+    "budget": 38604
+  },
+  {
+    "id": 89,
+    "title": "Recherche un(e) Flask Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Flask, CI/CD, DevOps, REST API, Docker pour moderniser notre stack technique.",
+    "skills": [
+      "Flask",
+      "CI/CD",
+      "DevOps",
+      "REST API",
+      "Docker"
+    ],
+    "duration_months": 9,
+    "budget": 21368
+  },
+  {
+    "id": 90,
+    "title": "Recherche un(e) GraphQL Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en GraphQL, BigQuery, FastAPI pour moderniser notre stack technique.",
+    "skills": [
+      "GraphQL",
+      "BigQuery",
+      "FastAPI"
+    ],
+    "duration_months": 11,
+    "budget": 34674
+  },
+  {
+    "id": 91,
+    "title": "Recherche un Data Science Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Data Science, FastAPI, Pandas, Scikit-learn, AWS pour moderniser notre stack technique.",
+    "skills": [
+      "Data Science",
+      "FastAPI",
+      "Pandas",
+      "Scikit-learn",
+      "AWS"
+    ],
+    "duration_months": 11,
+    "budget": 96393
+  },
+  {
+    "id": 92,
+    "title": "Recherche un BigQuery Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en BigQuery, Elasticsearch, CI/CD pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "BigQuery",
+      "Elasticsearch",
+      "CI/CD"
+    ],
+    "duration_months": 10,
+    "budget": 45378
+  },
+  {
+    "id": 93,
+    "title": "Recherche un Scikit-learn Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Scikit-learn, Node.js, Terraform, DevOps pour moderniser notre stack technique.",
+    "skills": [
+      "Scikit-learn",
+      "Node.js",
+      "Terraform",
+      "DevOps"
+    ],
+    "duration_months": 7,
+    "budget": 43728
+  },
+  {
+    "id": 94,
+    "title": "Recherche un(e) SQL Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en SQL, PyTorch pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "SQL",
+      "PyTorch"
+    ],
+    "duration_months": 8,
+    "budget": 72060
+  },
+  {
+    "id": 95,
+    "title": "Recherche un Computer Vision Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Computer Vision, Pandas, Terraform, SQL, NLP pour d\u00e9velopper une application web.",
+    "skills": [
+      "Computer Vision",
+      "Pandas",
+      "Terraform",
+      "SQL",
+      "NLP"
+    ],
+    "duration_months": 6,
+    "budget": 22669
+  },
+  {
+    "id": 96,
+    "title": "Recherche un Terraform Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Terraform, NumPy, python pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Terraform",
+      "NumPy",
+      "python"
+    ],
+    "duration_months": 6,
+    "budget": 68734
+  },
+  {
+    "id": 97,
+    "title": "Recherche un Qdrant Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Qdrant, AWS pour moderniser notre stack technique.",
+    "skills": [
+      "Qdrant",
+      "AWS"
+    ],
+    "duration_months": 6,
+    "budget": 13505
+  },
+  {
+    "id": 98,
+    "title": "Recherche un AWS Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en AWS, Terraform pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "Terraform"
+    ],
+    "duration_months": 10,
+    "budget": 19264
+  },
+  {
+    "id": 99,
+    "title": "Recherche un(e) Kafka Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Kafka, Flask, NumPy, SQL, Data Science pour d\u00e9velopper une application web.",
+    "skills": [
+      "Kafka",
+      "Flask",
+      "NumPy",
+      "SQL",
+      "Data Science"
+    ],
+    "duration_months": 7,
+    "budget": 24950
+  },
+  {
+    "id": 100,
+    "title": "Recherche un(e) Terraform Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Terraform, Data Science, SQL, Machine Learning pour moderniser notre stack technique.",
+    "skills": [
+      "Terraform",
+      "Data Science",
+      "SQL",
+      "Machine Learning"
+    ],
+    "duration_months": 4,
+    "budget": 54365
+  },
+  {
+    "id": 101,
+    "title": "Recherche un(e) python Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en python, Terraform, SQL, Elasticsearch pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "python",
+      "Terraform",
+      "SQL",
+      "Elasticsearch"
+    ],
+    "duration_months": 7,
+    "budget": 65343
+  },
+  {
+    "id": 102,
+    "title": "Recherche un(e) NumPy Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en NumPy, Data Science pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "NumPy",
+      "Data Science"
+    ],
+    "duration_months": 9,
+    "budget": 17596
+  },
+  {
+    "id": 103,
+    "title": "Recherche un(e) Kafka Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Kafka, AWS pour moderniser notre stack technique.",
+    "skills": [
+      "Kafka",
+      "AWS"
+    ],
+    "duration_months": 12,
+    "budget": 65115
+  },
+  {
+    "id": 104,
+    "title": "Recherche un(e) Data Science Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Data Science, Computer Vision pour moderniser notre stack technique.",
+    "skills": [
+      "Data Science",
+      "Computer Vision"
+    ],
+    "duration_months": 8,
+    "budget": 97644
+  },
+  {
+    "id": 105,
+    "title": "Recherche un AWS Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en AWS, PyTorch, Kubernetes, Pandas pour d\u00e9velopper une application web.",
+    "skills": [
+      "AWS",
+      "PyTorch",
+      "Kubernetes",
+      "Pandas"
+    ],
+    "duration_months": 8,
+    "budget": 92105
+  },
+  {
+    "id": 106,
+    "title": "Recherche un NLP Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en NLP, Elasticsearch, GraphQL, Java, Machine Learning pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "NLP",
+      "Elasticsearch",
+      "GraphQL",
+      "Java",
+      "Machine Learning"
+    ],
+    "duration_months": 1,
+    "budget": 10855
+  },
+  {
+    "id": 107,
+    "title": "Recherche un AWS Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en AWS, CI/CD, GraphQL, NLP, Flask pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "GraphQL",
+      "NLP",
+      "Flask"
+    ],
+    "duration_months": 3,
+    "budget": 99461
+  },
+  {
+    "id": 108,
+    "title": "Recherche un FastAPI Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en FastAPI, DevOps pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "FastAPI",
+      "DevOps"
+    ],
+    "duration_months": 4,
+    "budget": 60891
+  },
+  {
+    "id": 109,
+    "title": "Recherche un REST API Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en REST API, Java pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "REST API",
+      "Java"
+    ],
+    "duration_months": 10,
+    "budget": 80543
+  },
+  {
+    "id": 110,
+    "title": "Recherche un CI/CD Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en CI/CD, REST API, python, Pandas, JavaScript pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "CI/CD",
+      "REST API",
+      "python",
+      "Pandas",
+      "JavaScript"
+    ],
+    "duration_months": 4,
+    "budget": 33117
+  },
+  {
+    "id": 111,
+    "title": "Recherche un Kafka Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Kafka, React, Docker, BigQuery pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kafka",
+      "React",
+      "Docker",
+      "BigQuery"
+    ],
+    "duration_months": 11,
+    "budget": 77242
+  },
+  {
+    "id": 112,
+    "title": "Recherche un CI/CD Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en CI/CD, Qdrant, JavaScript, FastAPI pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "CI/CD",
+      "Qdrant",
+      "JavaScript",
+      "FastAPI"
+    ],
+    "duration_months": 10,
+    "budget": 19501
+  },
+  {
+    "id": 113,
+    "title": "Recherche un(e) Django Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Django, AWS, TensorFlow, Machine Learning, Scikit-learn pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Django",
+      "AWS",
+      "TensorFlow",
+      "Machine Learning",
+      "Scikit-learn"
+    ],
+    "duration_months": 1,
+    "budget": 89087
+  },
+  {
+    "id": 114,
+    "title": "Recherche un Machine Learning Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Machine Learning, JavaScript, FastAPI, python, REST API pour moderniser notre stack technique.",
+    "skills": [
+      "Machine Learning",
+      "JavaScript",
+      "FastAPI",
+      "python",
+      "REST API"
+    ],
+    "duration_months": 7,
+    "budget": 82290
+  },
+  {
+    "id": 115,
+    "title": "Recherche un Docker Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en Docker, DevOps, BigQuery, Django pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Docker",
+      "DevOps",
+      "BigQuery",
+      "Django"
+    ],
+    "duration_months": 5,
+    "budget": 30876
+  },
+  {
+    "id": 116,
+    "title": "Recherche un React Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en React, PyTorch pour moderniser notre stack technique.",
+    "skills": [
+      "React",
+      "PyTorch"
+    ],
+    "duration_months": 8,
+    "budget": 21964
+  },
+  {
+    "id": 117,
+    "title": "Recherche un(e) Qdrant Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Qdrant, REST API, Pandas, Elasticsearch, Kafka pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Qdrant",
+      "REST API",
+      "Pandas",
+      "Elasticsearch",
+      "Kafka"
+    ],
+    "duration_months": 10,
+    "budget": 12823
+  },
+  {
+    "id": 118,
+    "title": "Recherche un(e) Kafka Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Kafka, SQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kafka",
+      "SQL"
+    ],
+    "duration_months": 1,
+    "budget": 85635
+  },
+  {
+    "id": 119,
+    "title": "Recherche un(e) Computer Vision Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en Computer Vision, Qdrant, Machine Learning, JavaScript pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Computer Vision",
+      "Qdrant",
+      "Machine Learning",
+      "JavaScript"
+    ],
+    "duration_months": 4,
+    "budget": 34335
+  },
+  {
+    "id": 120,
+    "title": "Recherche un(e) Kafka Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Kafka, NoSQL, DevOps, PyTorch, SQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kafka",
+      "NoSQL",
+      "DevOps",
+      "PyTorch",
+      "SQL"
+    ],
+    "duration_months": 3,
+    "budget": 97912
+  },
+  {
+    "id": 121,
+    "title": "Recherche un python Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en python, SQL, JavaScript, Flask, Elasticsearch pour d\u00e9velopper une application web.",
+    "skills": [
+      "python",
+      "SQL",
+      "JavaScript",
+      "Flask",
+      "Elasticsearch"
+    ],
+    "duration_months": 10,
+    "budget": 58439
+  },
+  {
+    "id": 122,
+    "title": "Recherche un(e) Terraform Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Terraform, Data Science, REST API, BigQuery, CI/CD pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Terraform",
+      "Data Science",
+      "REST API",
+      "BigQuery",
+      "CI/CD"
+    ],
+    "duration_months": 10,
+    "budget": 83944
+  },
+  {
+    "id": 123,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en NoSQL, Docker pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "NoSQL",
+      "Docker"
+    ],
+    "duration_months": 4,
+    "budget": 34544
+  },
+  {
+    "id": 124,
+    "title": "Recherche un Kafka Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Kafka, Flask, Java, FastAPI, Kubernetes pour moderniser notre stack technique.",
+    "skills": [
+      "Kafka",
+      "Flask",
+      "Java",
+      "FastAPI",
+      "Kubernetes"
+    ],
+    "duration_months": 1,
+    "budget": 14631
+  },
+  {
+    "id": 125,
+    "title": "Recherche un(e) Machine Learning Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Machine Learning, CI/CD, SQL, Flask, python pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Machine Learning",
+      "CI/CD",
+      "SQL",
+      "Flask",
+      "python"
+    ],
+    "duration_months": 9,
+    "budget": 74986
+  },
+  {
+    "id": 126,
+    "title": "Recherche un BigQuery Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en BigQuery, Pandas pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "BigQuery",
+      "Pandas"
+    ],
+    "duration_months": 10,
+    "budget": 80831
+  },
+  {
+    "id": 127,
+    "title": "Recherche un Kubernetes Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Kubernetes, Scikit-learn, React pour moderniser notre stack technique.",
+    "skills": [
+      "Kubernetes",
+      "Scikit-learn",
+      "React"
+    ],
+    "duration_months": 4,
+    "budget": 66197
+  },
+  {
+    "id": 128,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en NoSQL, BigQuery, Docker, CI/CD, DevOps pour d\u00e9velopper une application web.",
+    "skills": [
+      "NoSQL",
+      "BigQuery",
+      "Docker",
+      "CI/CD",
+      "DevOps"
+    ],
+    "duration_months": 8,
+    "budget": 47579
+  },
+  {
+    "id": 129,
+    "title": "Recherche un BigQuery Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en BigQuery, Flask, Elasticsearch, FastAPI pour moderniser notre stack technique.",
+    "skills": [
+      "BigQuery",
+      "Flask",
+      "Elasticsearch",
+      "FastAPI"
+    ],
+    "duration_months": 1,
+    "budget": 95347
+  },
+  {
+    "id": 130,
+    "title": "Recherche un(e) JavaScript Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en JavaScript, Machine Learning, Kubernetes pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "JavaScript",
+      "Machine Learning",
+      "Kubernetes"
+    ],
+    "duration_months": 11,
+    "budget": 31409
+  },
+  {
+    "id": 131,
+    "title": "Recherche un BigQuery Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en BigQuery, TensorFlow pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "BigQuery",
+      "TensorFlow"
+    ],
+    "duration_months": 2,
+    "budget": 60186
+  },
+  {
+    "id": 132,
+    "title": "Recherche un(e) AWS Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en AWS, CI/CD, NLP, JavaScript, Kafka pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "NLP",
+      "JavaScript",
+      "Kafka"
+    ],
+    "duration_months": 11,
+    "budget": 26969
+  },
+  {
+    "id": 133,
+    "title": "Recherche un(e) BigQuery Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en BigQuery, Terraform, Data Science, SQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "BigQuery",
+      "Terraform",
+      "Data Science",
+      "SQL"
+    ],
+    "duration_months": 10,
+    "budget": 25075
+  },
+  {
+    "id": 134,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en NoSQL, PyTorch pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "NoSQL",
+      "PyTorch"
+    ],
+    "duration_months": 8,
+    "budget": 65212
+  },
+  {
+    "id": 135,
+    "title": "Recherche un DevOps Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en DevOps, Scikit-learn pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "DevOps",
+      "Scikit-learn"
+    ],
+    "duration_months": 4,
+    "budget": 16287
+  },
+  {
+    "id": 136,
+    "title": "Recherche un(e) Elasticsearch Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en Elasticsearch, NLP, SQL, React pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Elasticsearch",
+      "NLP",
+      "SQL",
+      "React"
+    ],
+    "duration_months": 6,
+    "budget": 29616
+  },
+  {
+    "id": 137,
+    "title": "Recherche un(e) SQL Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en SQL, Qdrant, GraphQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "SQL",
+      "Qdrant",
+      "GraphQL"
+    ],
+    "duration_months": 2,
+    "budget": 15015
+  },
+  {
+    "id": 138,
+    "title": "Recherche un(e) Machine Learning Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en Machine Learning, Elasticsearch pour d\u00e9velopper une application web.",
+    "skills": [
+      "Machine Learning",
+      "Elasticsearch"
+    ],
+    "duration_months": 1,
+    "budget": 57940
+  },
+  {
+    "id": 139,
+    "title": "Recherche un(e) NoSQL Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en NoSQL, REST API, Machine Learning pour d\u00e9velopper une application web.",
+    "skills": [
+      "NoSQL",
+      "REST API",
+      "Machine Learning"
+    ],
+    "duration_months": 9,
+    "budget": 14464
+  },
+  {
+    "id": 140,
+    "title": "Recherche un DevOps Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en DevOps, Computer Vision, Docker, Machine Learning pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "DevOps",
+      "Computer Vision",
+      "Docker",
+      "Machine Learning"
+    ],
+    "duration_months": 10,
+    "budget": 91598
+  },
+  {
+    "id": 141,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en NoSQL, REST API, Flask, Node.js, Django pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "NoSQL",
+      "REST API",
+      "Flask",
+      "Node.js",
+      "Django"
+    ],
+    "duration_months": 12,
+    "budget": 83448
+  },
+  {
+    "id": 142,
+    "title": "Recherche un(e) Kubernetes Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Kubernetes, REST API, DevOps, Kafka pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kubernetes",
+      "REST API",
+      "DevOps",
+      "Kafka"
+    ],
+    "duration_months": 3,
+    "budget": 60020
+  },
+  {
+    "id": 143,
+    "title": "Recherche un python Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en python, BigQuery pour d\u00e9velopper une application web.",
+    "skills": [
+      "python",
+      "BigQuery"
+    ],
+    "duration_months": 10,
+    "budget": 59292
+  },
+  {
+    "id": 144,
+    "title": "Recherche un GraphQL Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en GraphQL, Flask, BigQuery, Data Science, Pandas pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "GraphQL",
+      "Flask",
+      "BigQuery",
+      "Data Science",
+      "Pandas"
+    ],
+    "duration_months": 10,
+    "budget": 66231
+  },
+  {
+    "id": 145,
+    "title": "Recherche un(e) Machine Learning Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Machine Learning, Elasticsearch, Kafka pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Machine Learning",
+      "Elasticsearch",
+      "Kafka"
+    ],
+    "duration_months": 7,
+    "budget": 45986
+  },
+  {
+    "id": 146,
+    "title": "Recherche un Django Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Django, DevOps, Java pour d\u00e9velopper une application web.",
+    "skills": [
+      "Django",
+      "DevOps",
+      "Java"
+    ],
+    "duration_months": 5,
+    "budget": 58468
+  },
+  {
+    "id": 147,
+    "title": "Recherche un(e) AWS Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en AWS, Node.js, Kubernetes, Docker, Pandas pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "Node.js",
+      "Kubernetes",
+      "Docker",
+      "Pandas"
+    ],
+    "duration_months": 11,
+    "budget": 51184
+  },
+  {
+    "id": 148,
+    "title": "Recherche un TensorFlow Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en TensorFlow, AWS, Java pour d\u00e9velopper une application web.",
+    "skills": [
+      "TensorFlow",
+      "AWS",
+      "Java"
+    ],
+    "duration_months": 10,
+    "budget": 24344
+  },
+  {
+    "id": 149,
+    "title": "Recherche un Qdrant Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Qdrant, Elasticsearch, AWS pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Qdrant",
+      "Elasticsearch",
+      "AWS"
+    ],
+    "duration_months": 9,
+    "budget": 39432
+  },
+  {
+    "id": 150,
+    "title": "Recherche un Node.js Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Node.js, Elasticsearch, BigQuery pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Node.js",
+      "Elasticsearch",
+      "BigQuery"
+    ],
+    "duration_months": 10,
+    "budget": 69248
+  },
+  {
+    "id": 151,
+    "title": "Recherche un Java Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Java, python, PyTorch pour moderniser notre stack technique.",
+    "skills": [
+      "Java",
+      "python",
+      "PyTorch"
+    ],
+    "duration_months": 12,
+    "budget": 32900
+  },
+  {
+    "id": 152,
+    "title": "Recherche un(e) python Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en python, Computer Vision, TensorFlow, FastAPI pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "python",
+      "Computer Vision",
+      "TensorFlow",
+      "FastAPI"
+    ],
+    "duration_months": 9,
+    "budget": 73122
+  },
+  {
+    "id": 153,
+    "title": "Recherche un(e) NumPy Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en NumPy, NLP, Data Science, Kubernetes, PyTorch pour d\u00e9velopper une application web.",
+    "skills": [
+      "NumPy",
+      "NLP",
+      "Data Science",
+      "Kubernetes",
+      "PyTorch"
+    ],
+    "duration_months": 10,
+    "budget": 18656
+  },
+  {
+    "id": 154,
+    "title": "Recherche un JavaScript Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en JavaScript, Computer Vision, Docker pour moderniser notre stack technique.",
+    "skills": [
+      "JavaScript",
+      "Computer Vision",
+      "Docker"
+    ],
+    "duration_months": 12,
+    "budget": 84508
+  },
+  {
+    "id": 155,
+    "title": "Recherche un(e) Kubernetes Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Kubernetes, Computer Vision, AWS, Pandas pour d\u00e9velopper une application web.",
+    "skills": [
+      "Kubernetes",
+      "Computer Vision",
+      "AWS",
+      "Pandas"
+    ],
+    "duration_months": 4,
+    "budget": 23093
+  },
+  {
+    "id": 156,
+    "title": "Recherche un(e) Scikit-learn Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Scikit-learn, Java pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Scikit-learn",
+      "Java"
+    ],
+    "duration_months": 1,
+    "budget": 65816
+  },
+  {
+    "id": 157,
+    "title": "Recherche un(e) NumPy Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en NumPy, SQL, Django, Kubernetes, Terraform pour moderniser notre stack technique.",
+    "skills": [
+      "NumPy",
+      "SQL",
+      "Django",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "duration_months": 5,
+    "budget": 93899
+  },
+  {
+    "id": 158,
+    "title": "Recherche un Scikit-learn Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Scikit-learn, NumPy, Computer Vision, NoSQL, CI/CD pour moderniser notre stack technique.",
+    "skills": [
+      "Scikit-learn",
+      "NumPy",
+      "Computer Vision",
+      "NoSQL",
+      "CI/CD"
+    ],
+    "duration_months": 6,
+    "budget": 91089
+  },
+  {
+    "id": 159,
+    "title": "Recherche un PyTorch Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en PyTorch, JavaScript, Node.js pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "PyTorch",
+      "JavaScript",
+      "Node.js"
+    ],
+    "duration_months": 1,
+    "budget": 19333
+  },
+  {
+    "id": 160,
+    "title": "Recherche un DevOps Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en DevOps, Scikit-learn, NoSQL, AWS pour moderniser notre stack technique.",
+    "skills": [
+      "DevOps",
+      "Scikit-learn",
+      "NoSQL",
+      "AWS"
+    ],
+    "duration_months": 11,
+    "budget": 56241
+  },
+  {
+    "id": 161,
+    "title": "Recherche un(e) REST API Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en REST API, Docker, Pandas, JavaScript, Node.js pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "REST API",
+      "Docker",
+      "Pandas",
+      "JavaScript",
+      "Node.js"
+    ],
+    "duration_months": 8,
+    "budget": 44303
+  },
+  {
+    "id": 162,
+    "title": "Recherche un NoSQL Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en NoSQL, python, Docker, Data Science, Kubernetes pour moderniser notre stack technique.",
+    "skills": [
+      "NoSQL",
+      "python",
+      "Docker",
+      "Data Science",
+      "Kubernetes"
+    ],
+    "duration_months": 3,
+    "budget": 76081
+  },
+  {
+    "id": 163,
+    "title": "Recherche un Data Science Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Data Science, BigQuery pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Data Science",
+      "BigQuery"
+    ],
+    "duration_months": 9,
+    "budget": 46556
+  },
+  {
+    "id": 164,
+    "title": "Recherche un(e) Pandas Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Pandas, REST API, Django, DevOps, JavaScript pour d\u00e9velopper une application web.",
+    "skills": [
+      "Pandas",
+      "REST API",
+      "Django",
+      "DevOps",
+      "JavaScript"
+    ],
+    "duration_months": 5,
+    "budget": 81132
+  },
+  {
+    "id": 165,
+    "title": "Recherche un(e) CI/CD Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en CI/CD, TensorFlow, Qdrant, DevOps, BigQuery pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "CI/CD",
+      "TensorFlow",
+      "Qdrant",
+      "DevOps",
+      "BigQuery"
+    ],
+    "duration_months": 6,
+    "budget": 98244
+  },
+  {
+    "id": 166,
+    "title": "Recherche un Kafka Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Kafka, Machine Learning pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Kafka",
+      "Machine Learning"
+    ],
+    "duration_months": 2,
+    "budget": 56932
+  },
+  {
+    "id": 167,
+    "title": "Recherche un(e) Computer Vision Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en Computer Vision, Terraform, CI/CD, REST API, Machine Learning pour moderniser notre stack technique.",
+    "skills": [
+      "Computer Vision",
+      "Terraform",
+      "CI/CD",
+      "REST API",
+      "Machine Learning"
+    ],
+    "duration_months": 6,
+    "budget": 81114
+  },
+  {
+    "id": 168,
+    "title": "Recherche un(e) Kubernetes Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Kubernetes, NoSQL pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Kubernetes",
+      "NoSQL"
+    ],
+    "duration_months": 8,
+    "budget": 95187
+  },
+  {
+    "id": 169,
+    "title": "Recherche un CI/CD Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en CI/CD, Data Science pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "CI/CD",
+      "Data Science"
+    ],
+    "duration_months": 6,
+    "budget": 46244
+  },
+  {
+    "id": 170,
+    "title": "Recherche un(e) Java Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Java, Docker, Terraform, React, Machine Learning pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Java",
+      "Docker",
+      "Terraform",
+      "React",
+      "Machine Learning"
+    ],
+    "duration_months": 1,
+    "budget": 13619
+  },
+  {
+    "id": 171,
+    "title": "Recherche un Terraform Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Terraform, Kafka, TensorFlow, DevOps, Flask pour d\u00e9velopper une application web.",
+    "skills": [
+      "Terraform",
+      "Kafka",
+      "TensorFlow",
+      "DevOps",
+      "Flask"
+    ],
+    "duration_months": 9,
+    "budget": 37653
+  },
+  {
+    "id": 172,
+    "title": "Recherche un(e) Scikit-learn Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Scikit-learn, Django pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Scikit-learn",
+      "Django"
+    ],
+    "duration_months": 6,
+    "budget": 46490
+  },
+  {
+    "id": 173,
+    "title": "Recherche un(e) AWS Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en AWS, BigQuery, NoSQL, NumPy, Machine Learning pour moderniser notre stack technique.",
+    "skills": [
+      "AWS",
+      "BigQuery",
+      "NoSQL",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "duration_months": 4,
+    "budget": 53309
+  },
+  {
+    "id": 174,
+    "title": "Recherche un Computer Vision Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en Computer Vision, Elasticsearch, Machine Learning pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Computer Vision",
+      "Elasticsearch",
+      "Machine Learning"
+    ],
+    "duration_months": 5,
+    "budget": 93888
+  },
+  {
+    "id": 175,
+    "title": "Recherche un AWS Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en AWS, NoSQL, CI/CD, FastAPI pour d\u00e9velopper une application web.",
+    "skills": [
+      "AWS",
+      "NoSQL",
+      "CI/CD",
+      "FastAPI"
+    ],
+    "duration_months": 4,
+    "budget": 90696
+  },
+  {
+    "id": 176,
+    "title": "Recherche un(e) Elasticsearch Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en Elasticsearch, Qdrant, NLP pour d\u00e9velopper une application web.",
+    "skills": [
+      "Elasticsearch",
+      "Qdrant",
+      "NLP"
+    ],
+    "duration_months": 6,
+    "budget": 42832
+  },
+  {
+    "id": 177,
+    "title": "Recherche un(e) Node.js Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en Node.js, Kubernetes, DevOps, Pandas, CI/CD pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Node.js",
+      "Kubernetes",
+      "DevOps",
+      "Pandas",
+      "CI/CD"
+    ],
+    "duration_months": 9,
+    "budget": 88962
+  },
+  {
+    "id": 178,
+    "title": "Recherche un(e) GraphQL Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en GraphQL, BigQuery, Flask, Terraform pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "GraphQL",
+      "BigQuery",
+      "Flask",
+      "Terraform"
+    ],
+    "duration_months": 5,
+    "budget": 23462
+  },
+  {
+    "id": 179,
+    "title": "Recherche un python Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en python, React, CI/CD, Qdrant pour d\u00e9velopper une application web.",
+    "skills": [
+      "python",
+      "React",
+      "CI/CD",
+      "Qdrant"
+    ],
+    "duration_months": 1,
+    "budget": 10914
+  },
+  {
+    "id": 180,
+    "title": "Recherche un(e) Qdrant Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Qdrant, NumPy, PyTorch pour d\u00e9velopper une application web.",
+    "skills": [
+      "Qdrant",
+      "NumPy",
+      "PyTorch"
+    ],
+    "duration_months": 5,
+    "budget": 39477
+  },
+  {
+    "id": 181,
+    "title": "Recherche un Node.js Freelance",
+    "description": "Mission de 9 mois. Nous cherchons un expert en Node.js, Docker, BigQuery, AWS, Machine Learning pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Node.js",
+      "Docker",
+      "BigQuery",
+      "AWS",
+      "Machine Learning"
+    ],
+    "duration_months": 9,
+    "budget": 88023
+  },
+  {
+    "id": 182,
+    "title": "Recherche un(e) FastAPI Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en FastAPI, Kafka, Machine Learning, Scikit-learn pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "FastAPI",
+      "Kafka",
+      "Machine Learning",
+      "Scikit-learn"
+    ],
+    "duration_months": 10,
+    "budget": 42348
+  },
+  {
+    "id": 183,
+    "title": "Recherche un REST API Freelance",
+    "description": "Mission de 6 mois. Nous cherchons un expert en REST API, Machine Learning, NLP, Pandas, Java pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "REST API",
+      "Machine Learning",
+      "NLP",
+      "Pandas",
+      "Java"
+    ],
+    "duration_months": 12,
+    "budget": 41598
+  },
+  {
+    "id": 184,
+    "title": "Recherche un(e) Java Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en Java, Qdrant, TensorFlow, python, React pour moderniser notre stack technique.",
+    "skills": [
+      "Java",
+      "Qdrant",
+      "TensorFlow",
+      "python",
+      "React"
+    ],
+    "duration_months": 8,
+    "budget": 86773
+  },
+  {
+    "id": 185,
+    "title": "Recherche un(e) BigQuery Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en BigQuery, Kubernetes, GraphQL, Machine Learning, DevOps pour moderniser notre stack technique.",
+    "skills": [
+      "BigQuery",
+      "Kubernetes",
+      "GraphQL",
+      "Machine Learning",
+      "DevOps"
+    ],
+    "duration_months": 11,
+    "budget": 58043
+  },
+  {
+    "id": 186,
+    "title": "Recherche un(e) Computer Vision Freelance",
+    "description": "Mission de 7 mois. Nous cherchons un expert en Computer Vision, SQL pour d\u00e9velopper une application web.",
+    "skills": [
+      "Computer Vision",
+      "SQL"
+    ],
+    "duration_months": 1,
+    "budget": 60051
+  },
+  {
+    "id": 187,
+    "title": "Recherche un Terraform Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en Terraform, Machine Learning pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Terraform",
+      "Machine Learning"
+    ],
+    "duration_months": 12,
+    "budget": 53140
+  },
+  {
+    "id": 188,
+    "title": "Recherche un Django Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Django, React, GraphQL, BigQuery pour d\u00e9velopper une application web.",
+    "skills": [
+      "Django",
+      "React",
+      "GraphQL",
+      "BigQuery"
+    ],
+    "duration_months": 2,
+    "budget": 50954
+  },
+  {
+    "id": 189,
+    "title": "Recherche un Machine Learning Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Machine Learning, GraphQL, NumPy, PyTorch pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Machine Learning",
+      "GraphQL",
+      "NumPy",
+      "PyTorch"
+    ],
+    "duration_months": 10,
+    "budget": 80101
+  },
+  {
+    "id": 190,
+    "title": "Recherche un(e) React Freelance",
+    "description": "Mission de 4 mois. Nous cherchons un expert en React, Data Science, Node.js, Terraform pour d\u00e9velopper une application web.",
+    "skills": [
+      "React",
+      "Data Science",
+      "Node.js",
+      "Terraform"
+    ],
+    "duration_months": 4,
+    "budget": 68002
+  },
+  {
+    "id": 191,
+    "title": "Recherche un Pandas Freelance",
+    "description": "Mission de 11 mois. Nous cherchons un expert en Pandas, Node.js, PyTorch pour mettre en place une infrastructure cloud.",
+    "skills": [
+      "Pandas",
+      "Node.js",
+      "PyTorch"
+    ],
+    "duration_months": 9,
+    "budget": 61126
+  },
+  {
+    "id": 192,
+    "title": "Recherche un PyTorch Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en PyTorch, AWS, FastAPI, GraphQL pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "PyTorch",
+      "AWS",
+      "FastAPI",
+      "GraphQL"
+    ],
+    "duration_months": 2,
+    "budget": 41533
+  },
+  {
+    "id": 193,
+    "title": "Recherche un Flask Freelance",
+    "description": "Mission de 3 mois. Nous cherchons un expert en Flask, Java, CI/CD, Elasticsearch, NLP pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Flask",
+      "Java",
+      "CI/CD",
+      "Elasticsearch",
+      "NLP"
+    ],
+    "duration_months": 12,
+    "budget": 98826
+  },
+  {
+    "id": 194,
+    "title": "Recherche un(e) Django Freelance",
+    "description": "Mission de 12 mois. Nous cherchons un expert en Django, Node.js, Qdrant, Kubernetes, python pour d\u00e9velopper une application web.",
+    "skills": [
+      "Django",
+      "Node.js",
+      "Qdrant",
+      "Kubernetes",
+      "python"
+    ],
+    "duration_months": 8,
+    "budget": 82021
+  },
+  {
+    "id": 195,
+    "title": "Recherche un(e) Machine Learning Freelance",
+    "description": "Mission de 5 mois. Nous cherchons un expert en Machine Learning, Java, GraphQL pour cr\u00e9er un mod\u00e8le de machine learning.",
+    "skills": [
+      "Machine Learning",
+      "Java",
+      "GraphQL"
+    ],
+    "duration_months": 1,
+    "budget": 57606
+  },
+  {
+    "id": 196,
+    "title": "Recherche un(e) React Freelance",
+    "description": "Mission de 1 mois. Nous cherchons un expert en React, Machine Learning, Java, AWS pour d\u00e9velopper une application web.",
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Java",
+      "AWS"
+    ],
+    "duration_months": 4,
+    "budget": 79120
+  },
+  {
+    "id": 197,
+    "title": "Recherche un Java Freelance",
+    "description": "Mission de 2 mois. Nous cherchons un expert en Java, python, JavaScript, Pandas, DevOps pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "Java",
+      "python",
+      "JavaScript",
+      "Pandas",
+      "DevOps"
+    ],
+    "duration_months": 3,
+    "budget": 51694
+  },
+  {
+    "id": 198,
+    "title": "Recherche un BigQuery Freelance",
+    "description": "Mission de 10 mois. Nous cherchons un expert en BigQuery, Django, NLP, REST API pour d\u00e9velopper une application web.",
+    "skills": [
+      "BigQuery",
+      "Django",
+      "NLP",
+      "REST API"
+    ],
+    "duration_months": 2,
+    "budget": 25688
+  },
+  {
+    "id": 199,
+    "title": "Recherche un(e) NLP Freelance",
+    "description": "Mission de 8 mois. Nous cherchons un expert en NLP, React pour optimiser les performances de nos bases de donn\u00e9es.",
+    "skills": [
+      "NLP",
+      "React"
+    ],
+    "duration_months": 11,
+    "budget": 89311
+  }
+]
